@@ -1,12 +1,21 @@
-# project_DevOps
 
-first : clone the project
+# DEVPOPS
 
-second : cd project_DevOps puis npm i
+Projet DEVOPS Github
 
-thrid : launch test unit with npm run test 
+## Installation Repositories
 
+ - Git clone (repositorie)
+ - Creation nouveau repositorie
+ - Ajout d'un collaborateur
+ - Ajout d'un github WorkFlow
 
-AIDE POUR GITHUB : https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/
+ ## Test unitaires
+ - Ajout d'un Github-action-demo.yml (pour mettre le script des test unitaires)
 
-AIDE POUR GITLAB : https://blog.eleven-labs.com/fr/introduction-gitlab-ci/ 
+## News SonarCloud
+
+ - [Ajout Token Secret](https://sonarcloud.io/project/configuration?id=valstar44&analysisMode=GitHubActions)
+ - Ajout du document Build.yml
+ - Ajout de sonar-project.properties
+
